@@ -1,4 +1,4 @@
-#phpshell a simple php web interface that allows you to run basic shell commands on your server
+#phpshell a simple php web interface that allows you to run basic shell commands on a server
 
 
 >##DISCLAIMER

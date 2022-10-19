@@ -1,7 +1,7 @@
-#phpshell a simple php web interface that allows you to run basic shell commands on a server
+# phpshell a simple php web interface that allows you to run basic shell commands on a server
 
 
->##DISCLAIMER
+>## DISCLAIMER
 >>
 >>The functions provided by dev0ps221 on "phpshell" is for testing and authorized purposes only. The sourcecode of the script is provided in good faith, however we 
 >>make no representation or warranty of any kind, express or implied, regarding the usage of any information on the programs source code. UNDER NO CIRCUMSTANCE 
@@ -12,7 +12,7 @@
 >>THE USE OR RELIANCE OF ANY INFORMATION CONTAINED IN THIS SCRIPT IS SOLELY AT YOUR OWN RISK.
 >
 >
->##CLAUSE DE NON-RESPONSABILITÉ
+>## CLAUSE DE NON-RESPONSABILITÉ
 >
 >>Les fonctions fournies par dev0ps221 sur "phpshell" sont uniquement à des fins de test et autorisées. Le code source du script est fourni de bonne foi, mais nous 
 >>ne faisons aucune représentation ou garantie d'aucune sorte, expresse ou implicite, concernant l'utilisation de toute information sur le code source du programme. 
